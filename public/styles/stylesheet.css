@@ -1,0 +1,56 @@
+body {
+    background-image: url("http://fondationdraco.free.fr/images/bonus/Molnar_Berlin.jpg");
+    background-size: cover;
+    color:  #c2ca20;
+    text-align: center;
+}
+
+header, footer {
+    color:  #c2ca20;
+    margin-bottom: 20px;
+}
+
+main {
+    width: 800px;
+    margin: auto;
+    color:  white;
+    text-size: 22px;
+}
+
+footer, .navigation {
+    width: 800px;
+    margin: auto;
+    border-top: solid 1px;
+    margin-top: 40px;
+}
+
+.navigation {
+    border-bottom: solid 1px;
+    text-align: left;
+}
+
+a {
+    color:  #c2ca20;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: black;
+}
+
+main > img {
+    float:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
